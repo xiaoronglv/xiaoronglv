@@ -3,13 +3,12 @@
 ## About Me
 
 - Senior Ruby Developer
-- Currently based in Shanhgai
-- AWS Certified Solutions Architect
-- Community Manager of ruby-china.org
+- Based in Shanhgai
+- [AWS Certified Solutions Architect](https://mednoter.com/media/files/2021/2021-04-17-certification.jpg)
+- Community Manager of [ruby-china.org](https://ruby-china.org/xiaoronglv)
 - Organizer of Ruby Tuesday
 
 ## Stats
-
 
 ![xiaoronglv's github stats](https://github-readme-stats.vercel.app/api?username=xiaoronglv&hide=["issues"]&show_icons=true&line_height=30)
 
