@@ -4,9 +4,9 @@
 
 - Senior Ruby Developer
 - Based in Shanhgai
-- [AWS Certified Solutions Architect](https://mednoter.com/media/files/2021/2021-04-17-certification.jpg)
-- Community Manager of [ruby-china.org](https://ruby-china.org/xiaoronglv)
+- AWS Certified Solutions Architect
 - Organizer of Ruby Tuesday
+- Community Manager of ruby-china.org
 
 ## Stats
 
