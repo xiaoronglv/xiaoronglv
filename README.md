@@ -3,7 +3,7 @@
 ## About Me
 
 - Senior Ruby Developer
-- Currently based in Shanhgai.
+- Currently based in Shanhgai
 - AWS Certified Solutions Architect
 - Community Manager of ruby-china.org
 - Organizer of Ruby Tuesday
