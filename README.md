@@ -15,4 +15,4 @@
 
 ## Stackoverflow
 
-[![xiaoronglv StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5117552)](https://stackoverflow.com/users/5117552/ryan-lyu)
+[![xiaoronglv StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5117552&layout=compact)](https://stackoverflow.com/users/5117552/ryan-lyu)
