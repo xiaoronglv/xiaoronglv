@@ -10,10 +10,6 @@
 
 My blog: [mednoter.com](https://mednoter.com/)
 
-## Stats
-
-![xiaoronglv's github stats](https://github-readme-stats.vercel.app/api?username=xiaoronglv&hide=["issues"]&show_icons=true&line_height=30)
-
 
 ## Stackoverflow
 
